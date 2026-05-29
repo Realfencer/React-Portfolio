@@ -94,7 +94,7 @@ export const ContactSection = () => {
     } catch (error) {
       toast({
         title: "Oops! Something went wrong",
-        description: "Please try again or email me directly at codewithkinu@gmail.com",
+        description: "Please try again or email me directly at matthewsliger0302@gmail.com",
         variant: "destructive"
       });
     } finally {
@@ -133,10 +133,10 @@ export const ContactSection = () => {
                 <div>
                   <p className="text-xs sm:text-sm text-muted-foreground">Email</p>
                   <a
-                    href="mailto:codewithkinu@gmail.com"
+                    href="mailto:matthewsliger0302@gmail.com"
                     className="text-sm sm:text-base font-medium hover:text-primary transition-colors"
                   >
-                    codewithkinu@gmail.com
+                    matthewsliger0302@gmail.com
                   </a>
                 </div>
               </div>
@@ -151,7 +151,7 @@ export const ContactSection = () => {
                     href="tel:+919315145594"
                     className="text-sm sm:text-base font-medium hover:text-primary transition-colors"
                   >
-                    +91 9315145594
+                    +1 2543409272
                   </a>
                 </div>
               </div>
@@ -163,7 +163,7 @@ export const ContactSection = () => {
                 <div>
                   <p className="text-xs sm:text-sm text-muted-foreground">Location</p>
                   <span className="text-sm sm:text-base font-medium">
-                    Bengaluru, Karnataka India
+                    Frankfurt, Germany
                   </span>
                 </div>
               </div>
@@ -186,7 +186,7 @@ export const ContactSection = () => {
                   {
                     icon: Github,
                     label: "GitHub",
-                    url: "https://github.com/Sahilmd01",
+                    url: "https://github.com/Realfencer",
                   },
                   {
                     icon: Instagram,
